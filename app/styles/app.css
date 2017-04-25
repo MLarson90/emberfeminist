@@ -1,0 +1,125 @@
+body{
+  background-image: url(http://devfloat.net/wp-content/uploads/2016/01/Grey-Floral-Subtle-Pattern.jpg);
+}
+.ad{
+  text-align: center;
+}
+.ad div.adimg img{
+  width: 80%;
+}
+.bookTitle{
+position: absolute;
+ background: white;
+ width: 300px;
+ height: 75px;
+ text-align: center;
+ margin-top: 220px;
+ margin-left: 55px;
+ padding: 10px;
+}
+.bookPic{
+  margin:30px;
+  width:100%;
+}
+
+
+div.books div:nth-child(4) img.bookPic{
+  width: 1110px;
+}
+
+div.books div:nth-child(4) div.bookTitle {
+  width: 600px;
+  height: 200px;
+  font-size: 2em;
+  text-align: center;
+  margin-top: 450px;
+  margin-left: 280px;
+  padding: 10px 10px;
+  border-top: 7px solid #7FFFD4;
+
+}
+
+.topStoryBar{
+   background: linear-gradient(to right, #7FFFD4	, #87CEFA);
+   margin-top: 170px;
+   margin-left: 50px;
+   padding-left:30px;
+   color:white;
+}
+.stories{
+  background: white;
+  width: 95%;
+  margin-left: 60px;
+  margin-top: 40px;
+}
+.stories img{
+  width:100%;
+  margin:20px;
+}
+nav.navbar {
+  width: 100%;
+  height: 60px;
+  background-color: rgba(255,255,255,.9);
+  position:fixed;
+  z-index:2;
+  top:0;
+
+}
+nav.navbar button#navButt{
+  border: white;
+  background-color: white;
+  height: 50px;
+  width: 50px;
+  margin-left: 100px;
+  margin-top: 4px;
+}
+#navy li{
+  display: inline;
+  float:right;
+  margin: 0 13px;
+}
+#navy{
+  margin-top: -37px;
+}
+#custButt{
+  background:white;
+  border: none;
+  border-left: 1px solid grey;
+}
+#line{
+  margin-top: 60px;
+  margin-right: 70px;
+  height:5px;
+   background: linear-gradient(to right, #7FFFD4	, #87CEFA);
+}
+#mostWant{
+  margin-left:100px;
+  margin-top:50px;
+  font-style: italic;
+}
+.backWant{
+  background-color: white;
+  margin-top: 50px;
+  height: 400px;
+}
+#mostPic{
+  width: 250px;
+  height:175px;
+  border: 2px solid black;
+  margin-left: 50px;
+  margin-top: 30px;
+}
+#mostText{
+  text-align: center;
+}
+.bottomLine{
+  height:5px;
+  background-color: grey;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.backWant p{
+  float:right;
+  margin-right: 20px;
+  margin-top: 20px;
+}

@@ -1,0 +1,54 @@
+<div class="container">
+  <div class="ad">
+    {{#each model.ad as |ad|}}
+       {{top-tile ad=ad}}
+    {{/each}}
+  </div>
+</div>
+
+{{nav-bar link="link"}}
+<div class="container">
+<div class="books">
+  {{#each model.book as |book|}}
+    {{books-top book=book}}
+  {{/each}}
+</div>
+</div>
+
+<div class="container">
+  <div class="row topStoryBar">
+    <h2>Today's Top Stories</h2>
+  </div>
+  {{#each model.topStory as |topStory index|}}
+    {{#if (lt index 2)}}
+      {{top-story topStory=topStory}}
+    {{/if}}
+  {{/each}}
+</div>
+
+<div class="backWant">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        <h2 id="mostWant">Bustle's Most Wanted</h2>
+      </div>
+      <div class="col-md-7">
+        <div id="line"></div>
+      </div>
+    </div>
+    {{#each model.mostWanted as |mostWanted|}}
+      {{most-wanted mostWanted=mostWanted}}
+    {{/each}}
+  </div>
+  <div class="bottomLine"></div>
+  <p>view all</p>
+</div>
+
+
+<div class="container">
+  {{#each model.topStory as |topStory index|}}
+    {{#if  (and (gt index 1) (lt index 6))}}
+      {{top-story topStory=topStory}}
+    {{/if}}
+  {{/each}}
+</div>

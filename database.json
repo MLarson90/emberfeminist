@@ -1,0 +1,74 @@
+{
+  "books": [{
+    "title":"How Men Can Be Better At Knitting",
+    "author":"SUZANNAH WEISS",
+    "pictute": "https://typeset-beta.imgix.net/2017%2F4%2F25%2Fbaa2897f-94be-4b3f-ab88-920490535930.jpeg?w=282&h=190&fit=crop&crop=faces&auto=format&q=70&dpr=2"
+  },{
+    "title":"This New Dating Trend May Cause Canser",
+    "author":"LEA ROSE EMERY",
+    "pictute": "https://typeset-beta.imgix.net/2017%2F4%2F24%2F9140cc73-f8ba-41b7-b9bf-1b0bbc0de2da.jpg?w=282&h=190&fit=crop&crop=faces&auto=format&q=70&dpr=2"
+  },{
+    "title":"11 Books To Read When You Are Not Busy On Sites Like This",
+    "author":"MELISSA RAGSDALE",
+    "pictute": "https://typeset-beta.imgix.net/2017%2F4%2F23%2Fb544dc1f-44b8-4393-890f-6e57fa627d27.jpg?w=282&h=190&fit=crop&crop=faces&auto=format&q=70&dpr=2"
+  },{
+    "title":"What No One Warned You About Adulthood (Or Maybe You Just Weren't Listening You Brat)",
+    "author":"MEGAN GRANT",
+    "pictute": "https://typeset-beta.imgix.net/2017%2F3%2F9%2Fe91d402b-5c09-4e64-bf13-7727640c8e2b.jpg?w=1000&h=435&fit=crop&crop=faces&auto=format&q=70&dpr=2"
+  }],
+  "topStories":[{
+    "title": "Caitlyn Jenner Finally ... Who Cares ... Trump Love",
+    "author": "ALLIE GEMMILL",
+    "picture": "https://typeset-beta.imgix.net/2017%2F4%2F25%2F623242520.jpg?w=470&h=245&fit=crop&crop=faces&auto=format&q=70&dpr=2",
+    "description": "Its tough to know why anyone would care about this article yet it was still written, Tucker Carlson is also someone. Im sure there are better ways to spend your time",
+
+  }, {
+    "title": "Jamie Lannister Is Still Some Guy",
+    "author": "JOHNNY BRAYSON",
+    "picture": "https://typeset-beta.imgix.net/2017%2F4%2F24%2F607664292.jpg?w=470&h=245&fit=crop&crop=faces&auto=format&q=70&dpr=2",
+    "description": "Jamie is a rich man therefor you should care about him, it doesn't matter that you do not know him you should be involved in his personal affairs. Even if he doesn't know you nor care about you he is more important than you and deserves your time."
+    },{
+      "title": "Caitlyn Jenner Finally ... Who Cares ... Trump Love",
+      "author": "ALLIE GEMMILL",
+      "picture": "https://typeset-beta.imgix.net/2017%2F4%2F25%2F623242520.jpg?w=470&h=245&fit=crop&crop=faces&auto=format&q=70&dpr=2",
+      "description": "Its tough to know why anyone would care about this article yet it was still written, Tucker Carlson is also someone. Im sure there are better ways to spend your time"
+    }, {
+      "title": "Jamie Lannister Is Still Some Guy",
+      "author": "JOHNNY BRAYSON",
+      "picture": "https://typeset-beta.imgix.net/2017%2F4%2F24%2F607664292.jpg?w=470&h=245&fit=crop&crop=faces&auto=format&q=70&dpr=2",
+      "description": "Jamie is a rich man therefor you should care about him, it doesn't matter that you do not know him you should be involved in his personal affairs. Even if he doesn't know you nor care about you he is more important than you and deserves your time."
+      },{
+        "title": "Caitlyn Jenner Finally ... Who Cares ... Trump Love",
+        "author": "ALLIE GEMMILL",
+        "picture": "https://typeset-beta.imgix.net/2017%2F4%2F25%2F623242520.jpg?w=470&h=245&fit=crop&crop=faces&auto=format&q=70&dpr=2",
+        "description": "Its tough to know why anyone would care about this article yet it was still written, Tucker Carlson is also someone. Im sure there are better ways to spend your time"
+      }, {
+        "title": "Jamie Lannister Is Still Some Guy",
+        "author": "JOHNNY BRAYSON",
+        "picture": "https://typeset-beta.imgix.net/2017%2F4%2F24%2F607664292.jpg?w=470&h=245&fit=crop&crop=faces&auto=format&q=70&dpr=2",
+        "description": "Jamie is a rich man therefor you should care about him, it doesn't matter that you do not know him you should be involved in his personal affairs. Even if he doesn't know you nor care about you he is more important than you and deserves your time."
+        },{
+          "title": "Caitlyn Jenner Finally ... Who Cares ... Trump Love",
+          "author": "ALLIE GEMMILL",
+          "picture": "https://typeset-beta.imgix.net/2017%2F4%2F25%2F623242520.jpg?w=470&h=245&fit=crop&crop=faces&auto=format&q=70&dpr=2",
+          "description": "Its tough to know why anyone would care about this article yet it was still written, Tucker Carlson is also someone. Im sure there are better ways to spend your time"
+        }, {
+          "title": "Jamie Lannister Is Still Some Guy",
+          "author": "JOHNNY BRAYSON",
+          "picture": "https://typeset-beta.imgix.net/2017%2F4%2F24%2F607664292.jpg?w=470&h=245&fit=crop&crop=faces&auto=format&q=70&dpr=2",
+          "description": "Jamie is a rich man therefor you should care about him, it doesn't matter that you do not know him you should be involved in his personal affairs. Even if he doesn't know you nor care about you he is more important than you and deserves your time."
+          }],
+  "mostWanteds":[{
+    "title": "Buslte's Most Wanted: Alien Cams",
+    "picture": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNZ2SeH9FO9ceAeU8EnXzqxsTqt0UlJi7vUElvNEyn1-mhp7AP"
+    }, {
+    "title": "Bustles's Most Wanted: PRO Hunting Fishing Tool",
+    "picture": "https://www.picclickimg.com/d/l400/pict/131833335147_/PRO-Hunting-Fish-Tool-Wrist-Slingshot-Brace-Catapult.jpg"
+    }, {
+    "title": "Bustle's Most Wanted: Xcorp Ghillie Suit",
+    "picture": "https://cdn.shopify.com/s/files/1/1125/2160/products/desert_1__97498_grande.jpeg?v=1452642665"
+    }],
+  "ads":[{
+    "picture":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FjrON2kZGWqhpwizgikwnstYdoYPkvMyvbdGhTGq6DvpiDrsLA"
+    }]
+}
