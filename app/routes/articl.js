@@ -4,5 +4,12 @@ export default Ember.Route.extend({
   model(params){
     return this.store.findRecord('topStory', params.topStory_id);
   },
-
+  actions: {
+    homie(){
+      this.transitionTo('index');
+    },
+    link(){
+      this.transitionTo('search');
+    },
+  }
 });

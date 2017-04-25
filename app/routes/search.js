@@ -8,5 +8,8 @@ export default Ember.Route.extend({
     homie(){
       this.transitionTo('index');
     },
+    link(){
+      this.transitionTo('search');
+    },
   }
 });
