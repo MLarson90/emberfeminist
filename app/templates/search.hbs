@@ -1,5 +1,16 @@
+{{nav-bar link="link" homie="homie"}}
 <div class="search">
+  <div class="container">
   <form>
-    <input type="" name="name" value="">
+    <input id="searchBar" name="name" placeholder="search">
   </form>
+</div>
+</div>
+<div class="container">
+  <div class="row topStoryBar">
+    <h2>New Stories</h2>
+  </div>
+  {{#each model as |topStory|}}
+      {{top-story topStory=topStory}}
+  {{/each}}
 </div>
